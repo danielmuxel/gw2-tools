@@ -13,5 +13,10 @@
     "nuxt": "^3.10.0",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.18",
+    "@heroicons/vue": "^2.1.1",
+    "@nuxt/ui": "^2.13.0"
   }
 }
